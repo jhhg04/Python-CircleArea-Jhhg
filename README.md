@@ -16,7 +16,7 @@ python Circle.py
 ```bash
 python --version
 ```
-## Run backend, in crud folder
+## Clone and Run
 ```bash
 $ git clone https://github.com/jhhg04/Python-CirleArea-Jhhg.git
 $ cd Circle
